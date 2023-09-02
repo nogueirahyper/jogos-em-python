@@ -1,0 +1,6 @@
+banana
+laranja
+morango
+tangerina
+melancia
+maracuja
